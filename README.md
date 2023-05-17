@@ -3,7 +3,7 @@
 <div align="center">
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="[https://blog.sunguoqi.com/](https://github.com/tluy)">
+    <a href="https://github.com/tluy">
      <img src="https://readme-typing-svg.demolab.com?font=Long+Cang&pause=2000&width=1000&color=4CF722&height=100&lines=console.log(%22Hello%2C%20World%22);春和景明，祝您今天愉快!&center=true&size=45" alt="Typing SVG" />
     </a>
   </div>
