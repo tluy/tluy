@@ -53,7 +53,7 @@
 ![Element Badge](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=fff&style=flat)
 ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
  
@@ -62,7 +62,7 @@
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
 ![Chat GPT Badge](https://img.shields.io/badge/Chat%20GPT-75AC9D?logo=openai&logoColor=fff&style=flat)
 ![Bilibili Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat)
-![Microsoft OneNote Badge](https://img.shields.io/badge/Microsoft%20OneNote-7719AA?logo=microsoftonenote&logoColor=fff&style=flat)
+![Microsoft OneNote Badge](https://img.shields.io/badge/OneNote-7719AA?logo=microsoftonenote&logoColor=fff&style=flat)
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat)
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat)
 ![HarmonyOS Badge](https://img.shields.io/badge/HarmonyOS-000000?logo=harmonyos&logoColor=fff&style=flat)
