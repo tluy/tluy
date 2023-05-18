@@ -53,10 +53,9 @@
 ![Element Badge](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=fff&style=flat)
 ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-<!-- ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) -->
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
- 
+<!-- ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) -->
 ![Zotero Badge](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=fff&style=flat)
 ![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=flat)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
