@@ -57,7 +57,7 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 <!-- ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat) -->
 ![Zotero Badge](https://img.shields.io/badge/Zotero-CC2936?logo=zotero&logoColor=fff&style=flat)
-![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=fff&style=flat)
+![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowserx&logoColor=fff&style=flat)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
 ![Chat GPT Badge](https://img.shields.io/badge/Chat%20GPT-75AC9D?logo=openai&logoColor=fff&style=flat)
 ![Bilibili Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat)
