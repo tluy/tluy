@@ -31,7 +31,10 @@
 <p><strong>&emsp;&emsp;Hello everyone👋<strong></p>
 
 <p>&emsp;&emsp;I'm Jesse.</p>
-<p>&emsp;&emsp;I am a rookie~</p>
+<p>&emsp;&emsp;I'm a rookie programmer.</p>
+<p><strong>&emsp;&emsp;I am also an open-source enthusiast and maintainer.</strong></p>
+<p><strong>&emsp;&emsp;I learned a lot from the open-source community.</strong></p>
+<p><strong>&emsp;&emsp;I love how collaboration and knowledge sharing happened through open-source.</strong></p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;艰难方显勇毅，磨砺始得玉成！踔厉奋发，笃行不怠！</p>
@@ -41,16 +44,23 @@
 </table>
 
 
-<div align="center" >
+<div align="center">
 
-![OnePlus Badge](https://img.shields.io/badge/OnePlus-F5010C?logo=oneplus&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![OnePlus Badge](https://img.shields.io/badge/ONEPLUS-F5010C?logo=oneplus&logoColor=fff&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![WeChat Badge](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=fff&style=flat)
+![Element Badge](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=fff&style=flat)
+![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Intellij Idea Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=fff&style=flat)
+
+
+<!-- ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) -->
+
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,java,py,js,redis,mongodb,idea,git,discord,twitter,instagram" /><br>
