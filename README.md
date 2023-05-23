@@ -120,11 +120,8 @@
 
 </div>
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/><br><br>
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+<img src="https://github.blog/wp-content/uploads/2020/07/new-docs-site.png"/><br><br>
 
 
 
